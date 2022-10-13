@@ -1,3 +1,8 @@
+#Amiin Samatar
+#niima23
+#10/11/22
+#Finding the factors of 12 
+
 var = int(input("Please enter a positive integer:"))
 
 print("The factors of",var,"are:")
